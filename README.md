@@ -1,7 +1,7 @@
 <h2>Hello 🙋‍♂️</h2>
 <h2>I'm <b>Sumit Mohod</b>, An Aspiring Data Scientist Student.✌️</h2>
 <h6>Master Degree in Statistics(2018) from S.G.B.A.U., Amravati.</h6>
-<h6>Bachelor Degree in  Mathematics, Statistics and Computer Application (2016) from S.G.B.A.U., Amravati.</h6>
+<h6>Bachelor Degree in  Mathematics, Statistics and Computer Science (2016) from S.G.B.A.U., Amravati.</h6>
 
 - 💖 I’m currently learning Data Science.
 - 🌈  I’m currently working on Machine Learning Projects.
