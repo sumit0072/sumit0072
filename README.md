@@ -20,5 +20,6 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=sumit0072&show_icons=true&theme=onedark&count_private=true">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=sumit0072&theme=onedark&hide_border=true">
-  <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Alexei Pavlov [LION]'s profile on LinkedIn">
 </p>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit0072)](https://github.com/anuraghazra/github-readme-stats)
