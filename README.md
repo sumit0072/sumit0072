@@ -11,8 +11,14 @@
 
    * 📍 Email : sumitmohod1991@gmail.com           
     
-   * 📍 Linkedin : https://www.linkedin.com/in/sumit-mohod-25b248148/
-   
- 
+<a href="https://www.linkedin.com/in/sumit-mohod-25b248148"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 
+
+![Followers](https://badges.fw-web.space/github/followers/sumit0072?style=flat-square&logo=github)
  
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=sumit0072&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=sumit0072&show_icons=true&theme=onedark&count_private=true">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sumit0072&theme=onedark&hide_border=true">
+  <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Alexei Pavlov [LION]'s profile on LinkedIn">
+</p>  
